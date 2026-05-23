@@ -1,0 +1,648 @@
+{
+  "timestamp": "2026-05-23T14:56:55.839186",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e127161",
+        "CheckoutRequestID": "ws_CO_23052026145648756745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T15:35:55.169979",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725102649",
+        "CheckoutRequestID": "ws_CO_23052026153547729745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T15:38:53.450542",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e128502",
+        "CheckoutRequestID": "ws_CO_23052026153847207745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T15:39:56.288373",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e128517",
+        "CheckoutRequestID": "ws_CO_23052026153946346745959757",
+        "ResultCode": 0,
+        "ResultDesc": "The service request is processed successfully.",
+        "CallbackMetadata": {
+          "Item": [
+            {
+              "Name": "Amount",
+              "Value": 1
+            },
+            {
+              "Name": "MpesaReceiptNumber",
+              "Value": "UENN85D8GA"
+            },
+            {
+              "Name": "Balance"
+            },
+            {
+              "Name": "TransactionDate",
+              "Value": 20260523153955
+            },
+            {
+              "Name": "PhoneNumber",
+              "Value": 254745959757
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T15:54:18.041418",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725103281",
+        "CheckoutRequestID": "ws_CO_23052026155412905745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:10:50.354873",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e129805",
+        "CheckoutRequestID": "ws_CO_23052026161037089745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:13:45.700229",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725103890",
+        "CheckoutRequestID": "ws_CO_23052026161337166745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:16:20.634123",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e130039",
+        "CheckoutRequestID": "ws_CO_23052026161615191745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:18:43.946505",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725104066",
+        "CheckoutRequestID": "ws_CO_23052026161835451745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:21:21.834560",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725104186",
+        "CheckoutRequestID": "ws_CO_23052026162113815745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:23:32.178087",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e130261",
+        "CheckoutRequestID": "ws_CO_23052026162326479745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:25:34.221167",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e130345",
+        "CheckoutRequestID": "ws_CO_23052026162528653745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:25:53.205756",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725104312",
+        "CheckoutRequestID": "ws_CO_23052026162544499745959757",
+        "ResultCode": 0,
+        "ResultDesc": "The service request is processed successfully.",
+        "CallbackMetadata": {
+          "Item": [
+            {
+              "Name": "Amount",
+              "Value": 2
+            },
+            {
+              "Name": "MpesaReceiptNumber",
+              "Value": "UENN85DIN6"
+            },
+            {
+              "Name": "Balance"
+            },
+            {
+              "Name": "TransactionDate",
+              "Value": 20260523162552
+            },
+            {
+              "Name": "PhoneNumber",
+              "Value": 254745959757
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:27:30.667295",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e130410",
+        "CheckoutRequestID": "ws_CO_23052026162723348745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:29:02.149847",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725104431",
+        "CheckoutRequestID": "ws_CO_23052026162836327745959757",
+        "ResultCode": 1037,
+        "ResultDesc": "No response from user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:31:33.231073",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725104548",
+        "CheckoutRequestID": "ws_CO_23052026163107250745959757",
+        "ResultCode": 1037,
+        "ResultDesc": "No response from user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:33:10.131726",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e130572",
+        "CheckoutRequestID": "ws_CO_23052026163244315745959757",
+        "ResultCode": 1037,
+        "ResultDesc": "No response from user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:35:03.355922",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "3efa-41a3-a222-828ab2f5fe0b23",
+        "CheckoutRequestID": "ws_CO_23052026163454980745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:37:33.812869",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725104777",
+        "CheckoutRequestID": "ws_CO_23052026163725779745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:39:45.503013",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "3efa-41a3-a222-828ab2f5fe0b61",
+        "CheckoutRequestID": "ws_CO_23052026163929772745959757",
+        "ResultCode": 0,
+        "ResultDesc": "The service request is processed successfully.",
+        "CallbackMetadata": {
+          "Item": [
+            {
+              "Name": "Amount",
+              "Value": 1
+            },
+            {
+              "Name": "MpesaReceiptNumber",
+              "Value": "UENN85DKF3"
+            },
+            {
+              "Name": "Balance"
+            },
+            {
+              "Name": "TransactionDate",
+              "Value": 20260523163944
+            },
+            {
+              "Name": "PhoneNumber",
+              "Value": 254745959757
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:40:18.560110",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725104870",
+        "CheckoutRequestID": "ws_CO_23052026164009004745959757",
+        "ResultCode": 2001,
+        "ResultDesc": "The initiator information is invalid."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:51:24.277536",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e130900",
+        "CheckoutRequestID": "ws_CO_23052026165116983745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:52:10.913968",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e130915",
+        "CheckoutRequestID": "ws_CO_23052026165159090745959757",
+        "ResultCode": 1,
+        "ResultDesc": "The balance is insufficient for the transaction."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:55:13.223098",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "dfd3-4331-af71-81be74902ac3126",
+        "CheckoutRequestID": "ws_CO_23052026165507941745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T16:59:09.288125",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e131143",
+        "CheckoutRequestID": "ws_CO_23052026165903747745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:00:25.122433",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e131213",
+        "CheckoutRequestID": "ws_CO_23052026170021159745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:02:57.088802",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "dfd3-4331-af71-81be74902ac3276",
+        "CheckoutRequestID": "ws_CO_23052026170245540745959757",
+        "ResultCode": 0,
+        "ResultDesc": "The service request is processed successfully.",
+        "CallbackMetadata": {
+          "Item": [
+            {
+              "Name": "Amount",
+              "Value": 2
+            },
+            {
+              "Name": "MpesaReceiptNumber",
+              "Value": "UENN85DI1C"
+            },
+            {
+              "Name": "Balance"
+            },
+            {
+              "Name": "TransactionDate",
+              "Value": 20260523170256
+            },
+            {
+              "Name": "PhoneNumber",
+              "Value": 254745959757
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:08:32.100541",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725105541",
+        "CheckoutRequestID": "ws_CO_23052026170827190745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:09:13.486797",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725105562",
+        "CheckoutRequestID": "ws_CO_23052026170905648745959757",
+        "ResultCode": 1,
+        "ResultDesc": "The balance is insufficient for the transaction."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:12:32.329227",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e131741",
+        "CheckoutRequestID": "ws_CO_23052026171225422745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:13:39.310463",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e131762",
+        "CheckoutRequestID": "ws_CO_23052026171330151745959757",
+        "ResultCode": 1,
+        "ResultDesc": "The balance is insufficient for the transaction."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:19:35.431292",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725105954",
+        "CheckoutRequestID": "ws_CO_23052026171927163745959757",
+        "ResultCode": 1,
+        "ResultDesc": "The balance is insufficient for the transaction."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:44:15.963990",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e132827",
+        "CheckoutRequestID": "ws_CO_23052026174407083745959757",
+        "ResultCode": 0,
+        "ResultDesc": "The service request is processed successfully.",
+        "CallbackMetadata": {
+          "Item": [
+            {
+              "Name": "Amount",
+              "Value": 10
+            },
+            {
+              "Name": "MpesaReceiptNumber",
+              "Value": "UENN85DZKM"
+            },
+            {
+              "Name": "Balance"
+            },
+            {
+              "Name": "TransactionDate",
+              "Value": 20260523174415
+            },
+            {
+              "Name": "PhoneNumber",
+              "Value": 254745959757
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:48:10.618132",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725106975",
+        "CheckoutRequestID": "ws_CO_23052026174750082704809672",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:48:48.670444",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e132920",
+        "CheckoutRequestID": "ws_CO_23052026174822625704809672",
+        "ResultCode": 1037,
+        "ResultDesc": "No response from user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:49:05.810885",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e132938",
+        "CheckoutRequestID": "ws_CO_23052026174903092704809672",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T17:49:25.925705",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e132948",
+        "CheckoutRequestID": "ws_CO_23052026174924802704809672",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T18:15:35.472321",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e133885",
+        "CheckoutRequestID": "ws_CO_23052026181519965745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T18:16:49.907756",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e133935",
+        "CheckoutRequestID": "ws_CO_23052026181644415745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T18:27:01.195268",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "2a23-4d6f-bad3-69257cea84e134295",
+        "CheckoutRequestID": "ws_CO_23052026182643422745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
+{
+  "timestamp": "2026-05-23T18:30:50.709967",
+  "callback_data": {
+    "Body": {
+      "stkCallback": {
+        "MerchantRequestID": "9b6f-4ec3-9ce8-d381c0aa1725108673",
+        "CheckoutRequestID": "ws_CO_23052026183033634745959757",
+        "ResultCode": 1032,
+        "ResultDesc": "Request Cancelled by user."
+      }
+    }
+  }
+}
