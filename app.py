@@ -63,7 +63,7 @@ async def stk_push_form(request: Request):
 async def initiate_stk_push(
     amount: str = Form(...),
     phone: str = Form(''),
-    callback_url: str = Form('https://unexplaining-lesli-nonabsolutely.ngrok-free.dev/stk-callback'),
+    callback_url: str = Form('https://brayooapi.onrender.com/stk-callback'),
     passkey: str = Form('bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919'),
     business_short_code: str = Form('174379'),
     party_b: str = Form('254708374149'),
