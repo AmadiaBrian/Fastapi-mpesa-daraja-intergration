@@ -24,7 +24,11 @@ process_stk_callback = callback_module.process_stk_callback
 # Import database
 from database import init_db, SessionLocal, Transaction
 
-app = FastAPI()
+app = FastAPI(
+    docs_url=None,
+    redoc_url=None,
+    openapi_url=None
+)
 
 # Mount static files
 app.mount("/static", StaticFiles(directory="static"), name="static")
